@@ -27,5 +27,4 @@ func TestAddBinary(t *testing.T) {
 			}
 		})
 	}
-	addBinary("1010", "1011")
 }
