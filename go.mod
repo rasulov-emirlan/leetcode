@@ -1,3 +1,3 @@
 module github.com/rasulov-emirlan/leetcode
 
-go 1.17
+go 1.19
